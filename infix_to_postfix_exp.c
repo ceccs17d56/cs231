@@ -1,3 +1,6 @@
+//Vishak PV
+//S3 D
+//56
 #include <stdio.h>
 
 int instackPriority(char symbol) {
