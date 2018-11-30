@@ -1,3 +1,6 @@
+//Vishak PV
+//S3 D
+//56
 #include<stdio.h>
 
 int quick(int a[],int l,int h){
