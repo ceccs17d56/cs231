@@ -1,3 +1,6 @@
+//Vishak PV
+//S3 D
+//56
 #include<stdio.h>
 int stack[50],choice,n,top=0,x;
 void push(void);
