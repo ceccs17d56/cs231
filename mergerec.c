@@ -1,4 +1,7 @@
- #include<stdio.h>
+//Vishak PV
+//S3 D
+//56 
+#include<stdio.h>
 void merge(int a[],int low,int mid,int high)
 {
 	int temp[100],i=low,j=mid+1,k=low;
